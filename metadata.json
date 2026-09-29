@@ -1,0 +1,6 @@
+{
+  "name": "LMS Madrasah & Sekolah Pintar - By Dzakirul Husni",
+  "description": "Aplikasi LMS Interaktif lengkap untuk Guru SD/MI, SMP/MTs, SMA, MA, dan SMK dengan fitur COPAS cepat ke WhatsApp, Materi Pembelajaran, Tugas, Kuis Interaktif Otomatis, Presensi, Buku Nilai, dan Portofolio Siswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
